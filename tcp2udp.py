@@ -1,3 +1,5 @@
+# 2021 Rutger van Eijden
+
 import socket
 
 TCP_port = 55551
